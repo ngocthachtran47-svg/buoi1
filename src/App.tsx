@@ -1,7 +1,7 @@
-import Header from './components/Header'
-import WelcomeBanner from './components/WelcomeBanner'
-import PostCard from './components/PostCard'
-import Footer from './components/Footer'
+import Header from './components/Header.tsx'
+import WelcomeBanner from './components/WelcomeBanner.tsx'
+import PostCard from './components/PostCard.tsx'
+import Footer from './components/Footer.tsx'
 
 function App() {
   return (
